@@ -1,1 +1,1 @@
-Ctiy = None
+Ctiy = Bangalore
